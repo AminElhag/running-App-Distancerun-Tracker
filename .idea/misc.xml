@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/aminj/AndroidStudioProjects/RunningAppDistanceRunTracker/app/src/main/res/drawable/ic_add_black.xml" value="0.2635" />
+        <entry key="..\:/Users/aminj/AndroidStudioProjects/RunningAppDistanceRunTracker/app/src/main/res/layout-land/fragment_statistics.xml" value="0.3234375" />
+        <entry key="..\:/Users/aminj/AndroidStudioProjects/RunningAppDistanceRunTracker/app/src/main/res/layout-land/fragment_tracking.xml" value="0.3234375" />
+        <entry key="..\:/Users/aminj/AndroidStudioProjects/RunningAppDistanceRunTracker/app/src/main/res/layout/activity_main.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/aminj/AndroidStudioProjects/RunningAppDistanceRunTracker/app/src/main/res/layout/fragment_run.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/aminj/AndroidStudioProjects/RunningAppDistanceRunTracker/app/src/main/res/layout/fragment_settings.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/aminj/AndroidStudioProjects/RunningAppDistanceRunTracker/app/src/main/res/layout/fragment_setup.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/aminj/AndroidStudioProjects/RunningAppDistanceRunTracker/app/src/main/res/layout/fragment_statistics.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/aminj/AndroidStudioProjects/RunningAppDistanceRunTracker/app/src/main/res/layout/fragment_tracking.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/aminj/AndroidStudioProjects/RunningAppDistanceRunTracker/app/src/main/res/layout/item_run.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/aminj/AndroidStudioProjects/RunningAppDistanceRunTracker/app/src/main/res/layout/marker_view.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/aminj/AndroidStudioProjects/RunningAppDistanceRunTracker/app/src/main/res/menu/bottom_menu.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/aminj/AndroidStudioProjects/RunningAppDistanceRunTracker/app/src/main/res/menu/toolbar_tracking_menu.xml" value="0.33177083333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

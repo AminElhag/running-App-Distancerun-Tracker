@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Running App - Distance Run Tracker</string>
+    <string name="image_of_map">Image of map</string>
+    <string name="date">DATE</string>
+    <string name="time">TIME</string>
+    <string name="distance">DISTANCE</string>
+    <string name="avg_speed">AVG SPEED</string>
+    <string name="calories">CALORIES</string>
+    <string name="_00_00_00_00">00:00:00:00</string>
+    <string name="start">Start</string>
+    <string name="finish_run">Finish Run</string>
+    <string name="let_s_go_username">Let\'s go, USERNAME!</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_weight">Your Weight</string>
+    <string name="apply_changes">Apply Changes</string>
+    <string name="sort_by">Sort by:</string>
+    <string name="running_app">Running App</string>
+    <string name="welcome_nplease_enter_your_name_and_weight">Welcome!\nPlease enter your name and weight.</string>
+    <string name="kg">kg</string>
+    <string name="continues">Continue</string>
+    <string name="your_run">Your Run</string>
+    <string name="statistics">Statistics</string>
+    <string name="settings">Settings</string>
+    <string name="requset_location">The app need to see your location</string>
+    <string name="stop">Stop</string>
+    <string name="resume">Resume</string>
+    <string name="cancel_run">Cancel Run</string>
+    <string name="cancel_tracking_dialog_title">Cancel The run ?</string>
+    <string name="cancel_tracking_dialog_message">Are you sure to cancel the current run and delete all date ?!</string>
+    <string name="yes">Yes</string>
+    <string name="no">NO</string>
+    <string name="run_saved_successfully">Run saved successfully</string>
+    <string name="please_enter_all_fields">Please enter all the fields</string>
+    <string name="update_success">Update success</string>
+    <string name="avg_speed_over_time">Avg Speed Over Time</string>
+    <string name="delete_run">Delete Run ?</string>
+    <string name="are_you_sure_to_dekete_run">Are you sure to delete run</string>
+    <string name="open_gps_please">Open GPS Please</string>
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Running Time</item>
+        <item>Distance</item>
+        <item>Average Speed</item>
+        <item>Calories Burned</item>
+    </string-array>
+</resources>
